@@ -12,7 +12,7 @@
  * @var bool
  */
 define( 'WP_USE_THEMES', true );
-echo "<h2>" . Hello World! . "</h2>";
+echo "<h2> Hello World! </h2>";
 
 
 /** Loads the WordPress Environment and Template */
